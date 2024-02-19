@@ -1,6 +1,6 @@
 <?php
 
-print "I am Aman\n";
+print "I am Amafdfdfdn\n";
 
 
 ?>
